@@ -1,0 +1,1 @@
+"This project was made to learn git and github skills."
