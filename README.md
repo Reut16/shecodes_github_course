@@ -2,3 +2,4 @@
 "Another line for test on terminal."
 "Another check."
 "Third change."
+"Before git pull."
